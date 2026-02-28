@@ -23,3 +23,13 @@ Milestones:
 [ ] Frontend board renders text
 [ ] Voice sync works
 [ ] Polished MVP
+
+
+## Dev Log
+
+Day 1:
+- Set up GitHub repo
+- Created server structure
+- Fixed nested server folder bug
+- Backend running locally on port 3001
+- Preparing to integrate OpenAI
